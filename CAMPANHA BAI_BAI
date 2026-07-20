@@ -126,8 +126,8 @@
       "(hint)__ fluxo da agua aponta para a entrada"
     ],
     [
-      "entre no (img:arena) lair, mate a (color:f25816)merveil (lvl:11-13)",
-      "(hint)__ flow of the water points to it",
+      "procure  (img:arena) lair do boss, mate a (color:f25816)merveil (lvl:11-13)",
+      "(hint)__ fluxo da água aponta para o objetivo",
       "entre na areaid1_2_1 ;; southern forest"
     ]
   ],
