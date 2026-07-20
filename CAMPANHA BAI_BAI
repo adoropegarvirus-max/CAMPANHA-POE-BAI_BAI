@@ -84,8 +84,8 @@
       "entre na areaid1_1_7_2 ;; upper prison"
     ],
     [
-      "leaguestart: optional: encontre chemist's strongbox",
-      "(hint)__ pode dropar um quicksilver flask",
+      "leaguestart: optional: encontre a caixa (color:16f2d8)chemist's_strongbox",
+      "(hint)__ fica em um chest que abre uma passagem secreta, dropa um quicksilver flask, bom para um craft de bota",
       "mate (color:f25816)brutus, - ou tente, se for o (color:1651f2)allan - (lvl:8-10)",
       "(color:cc99ff)kite_e_loga_de_novo: areaid1_1_town ;; lioneye's watch"
     ],
@@ -151,7 +151,7 @@
       "vá para a (img:7): areaid1_2_6_1 ;; chamber of sins (1)"
     ],
     [
-      "entre na areaid1_2_6_2 ;; chamber of sins (2)"
+      "agora procure o próximo andar na areaid1_2_6_2 ;; chamber of sins (2)"
     ],
     [
       "leaguestart: conclua o (img:lab) trial",
