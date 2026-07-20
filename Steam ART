@@ -1,0 +1,33 @@
+steam ART
+
+EASYGIF
+até 5 mb permitido
+
+converta para essa resolução
+850 width x 450 height
+
+depois corte ajustando para
+158 widgth 450 height
+
+1 left 2
+2 left 162
+3 left 322
+4 left 482
+5 left 642
+arte longa
+
+
+PROGRAMA DE HEX, mudE o 3b para 21
+
+INSPECIONE PARA
+
+$J('#ConsumerAppID').val(480),$J('[name=file_type]').val(0),$J('[name=visibility]').val(0);
+
+
+
+
+
+
+PARA ARTES COMUNS
+
+document.getElementsByName("image_width")[0].value = 1000;document.getElementsByName("image_height")[0].value = 1;
