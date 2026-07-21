@@ -105,7 +105,7 @@
       "siga a parede, (color:ff00ff)encontre_2 (img:arena) saidas:",
       "(hint)_ - se achar (img:arena) cavern_of_wrath primeiro: entre (img:in-out2) (color:ffffff)e pegue (img:waypoint)",
       "(hint)_ - caso encontre (color:99ccff)the_ship...: nao entre, coloque 1 (img:portal) || procure (img:arena) cavern, (img:waypoint) e vá para a cidade (img:town)",
-      "(entre no (img:portal) na cidade ,) entre no areaid1_1_9a ;; ship graveyard cavefollow wall, find (img:arena) (color:99ccff)cavern & (img:arena) cave :"
+      "(entre no (img:portal) na cidade ,) entre no areaid1_1_9a ;; ship graveyard cave siga a parede, find (img:arena) (color:99ccff)cavern & (img:arena) cave :"
     ],
     [
       "encontre (img:quest) (quest:slave_girl) para a quest (quest:allflame)",
@@ -326,7 +326,7 @@
         ]
       ],
       "lines": [
-        "vá (img:4) para o tochinha na rua || follow:",
+        "vá (img:4) para o tochinha na rua || siga:",
         "(hint)_ 1) caminho alternativo: (quest:help) arena:alira para ela te dar o (quest:apex)",
         "(hint)_ 2) estradinha principal: mate (color:f25816)arteri para ganhar o (quest:emblem)",
         "(img:quest) (quest:seal) || (color:cc99ff)kita_&_entra: areaid1_2_town ;; forest encampment"
@@ -810,7 +810,7 @@
       "(hint)__ (color:cc99ff)início & (color:cc99ff)saída: (color:1651f2)cantos_adjacentes"
     ],
     [
-      "follow (img:5) alley to (img:waypoint)",
+      "siga (img:5) para pegar o (img:waypoint)",
       "entre no areaid1_5_6 ;; the ossuary"
     ],
     [
