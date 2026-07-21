@@ -490,8 +490,8 @@
       "vá (img:5) para areaid1_3_town ;; sarn encampment"
     ],
     [
-      "entre na areaid1_3_2 ;; the slums",
-      "encontre e entre no areaid1_3_3_1 ;; the crematorium",
+      "suba as escadas e depois entra na areaid1_3_2 ;; the slums",
+      "encontre e explore areaid1_3_3_1 ;; the crematorium",
       "(hint)__ (color:cc99ff)inicio & (color:cc99ff)saída: (color:16f2d8)cantos opostos"
     ],
     [
