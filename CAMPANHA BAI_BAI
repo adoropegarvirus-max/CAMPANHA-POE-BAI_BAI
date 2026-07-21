@@ -287,7 +287,7 @@
       ],
       "lines": [
         "(color:red)mate o arena:oak para ganhar o (quest:amulet)",
-        "encontre (img:waypoint): areaid1_2_9 ;; western forest",
+        "encontre o (img:waypoint): vá para areaid1_2_9 ;; western forest",
         "(hint)__ geralmente (img:7) ou (img:1), raramente (img:5)"
       ]
     },
