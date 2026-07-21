@@ -479,9 +479,8 @@
       "dá teu jeito e entra na areaid1_2_14_3 ;; ancient pyramid"
     ],
     [
-      "ache (img:arena) apex, kill (color:f25816)oversoul (lvl:20-22)",
-      "(hint)_ - parte chata pra carai, muito labirinto",
-      "(hint)_ - depois que matar, entra na porta que vai abrir"
+        "encontre o (img:arena) apex, mate a (color:f25816)oversoul (lvl:20-22)",
+      "(color:cc99ff)kita_&_entra || (img:waypoint) vá para areaid1_3_1 ;; city of sarn"
     ]
   ],
   [
