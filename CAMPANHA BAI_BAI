@@ -694,8 +694,8 @@
   ],
   [
     [
-      "entre no areaid1_4_town ;; highgate",
-      "vá (img:5) para areaid1_4_2 ;; dried lake"
+      "vá para a próxima cidade areaid1_4_town ;; highgate",
+      "ao entrar procure neesa direção (img:5) por: areaid1_4_2 ;; dried lake"
     ],
     [
       "mate (color:f25816)voll para pegar o (quest:banner) (lvl:30)",
