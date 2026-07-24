@@ -1,5 +1,5 @@
 [
-  [ 
+  [
     [
       "bó trabaiá sooo, (color:f25816)sai_da_praia aí kkk",
       "entra na cidade areaid1_1_town ;; lioneye's watch"
@@ -139,7 +139,7 @@
       "agora vá para (img:1) areaid1_2_2 ;; old fields"
     ],
     [
-        "leaguestart: optional: (img:quest) (color:8787fe)flask / <belt> : encontre o (img:arena) den, nao entre, coloque um (img:portal) ;; the den",
+      "leaguestart: optional: (img:quest) (color:8787fe)flask / <belt> : encontre o (img:arena) den, nao entre, coloque um (img:portal) ;; the den",
       "(hint)__ geralmente próximo a estrada",
       "siga a estrada: areaid1_2_3 ;; the crossroads"
     ],
@@ -479,7 +479,7 @@
       "dá teu jeito e entra na areaid1_2_14_3 ;; ancient pyramid"
     ],
     [
-        "encontre o (img:arena) apex, mate a (color:f25816)oversoul (lvl:20-22)",
+      "encontre o (img:arena) apex, mate a (color:f25816)oversoul (lvl:20-22)",
       "(color:cc99ff)kita_&_entra || (img:waypoint) vá para areaid1_3_1 ;; city of sarn"
     ]
   ],
@@ -684,7 +684,7 @@
       "(color:cc99ff)as_carroças te levam para o areaid1_3_18_1 ;; sceptre of god"
     ],
     [
-      "entre no areaid1_3_18_2 ;; upper sceptre of god",
+      "entre no areaid1_3_18_2 ;; upper sceptre of god"
     ],
     [
       "encontre (img:arena) rooftop, vença o (color:f25816)dominus (lvl:28)",
@@ -1078,7 +1078,8 @@
       "entre no areaid2_7_12_1 ;; temple of decay (1)"
     ],
     [
-      "entre e explore areaid2_7_12_2 ;; temple of decay (2)"],
+      "entre e explore areaid2_7_12_2 ;; temple of decay (2)"
+    ],
     [
       "encontre e mate a (color:f25816)arakaali",
       "entre na área areaid2_8_1 ;; sarn ramparts"
@@ -1102,7 +1103,8 @@
     [
       "encontre e mate (color:f25816)doedre",
       "(hint)__ tente: longe nessa direção (img:5), longe nessa direção (img:3), ou longe nessa direção (img:1)",
-      "depois de pegar o (img:waypoint), vá (img:2) para areaid2_8_8 ;; the quay"],
+      "depois de pegar o (img:waypoint), vá (img:2) para areaid2_8_8 ;; the quay"
+    ],
     [
       "siga a borda da água para pegar o item do baú: (img:quest) (quest:ankh)",
       "siga longe nessa direção (img:4) para a (img:arena) ressurrection_site",
